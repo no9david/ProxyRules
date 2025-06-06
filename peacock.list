@@ -1,0 +1,8 @@
+DOMAIN,nbcuni.com,PROXY
+DOMAIN,peacocktv.com,PROXY
+DOMAIN,rango.id.peacocktv.com,PROXY
+DOMAIN-SUFFIX,nbcuni.com,PROXY
+DOMAIN-SUFFIX,omtrdc.net,PROXY
+DOMAIN-SUFFIX,peacocktv.com,PROXY
+DOMAIN-KEYWORD,nbcuni,PROXY
+DOMAIN-KEYWORD,peacock,PROXY
